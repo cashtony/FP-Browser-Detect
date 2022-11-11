@@ -37,6 +37,12 @@
 ## 在线访问
 [链接](https://tyua07.github.io/FP-Browser-Detect/)
 
+## 相关开源项目
+* [FP-Browser-Public 浏览器底层动态注入](https://github.com/tyua07/FP-Browser-Public)
+* [FP-Browser-Detect 浏览器属性检测](https://github.com/tyua07/FP-Browser-Detect)
+* [FP-Browser-SDK 浏览器属性注入参数 SDK](https://github.com/tyua07/FP-Browser-SDK)
+* [FP-Browser-SDK 指纹浏览器全部选项的测试用例](https://github.com/tyua07/FP-Browser-Test)
+
 ## 启动服务
 
 ### 拉取项目
